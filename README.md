@@ -4,7 +4,7 @@ Description - This Python Program is to show visual representations of multiple 
 
 Prerequisite tools as follow:
 1) Jupyter Notebook (IDE) - To perform the computations for data analysis in python language that include import of libraries & datasets, analysis, create multiple Statistical Visualisations and save the Python File (.ipynb).            
-2) Microsoft Excel - To open and/or read the structured or semistructed data. 
+2) Microsoft Excel - To open and/or read the structured or semistructured data. 
 <br/>
 
 Steps to use the prerequisite tools:
